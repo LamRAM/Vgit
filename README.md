@@ -1,4 +1,11 @@
-# Installation 
+# VisualGit
+
+## Requirement
+ Make sure these requirements exist on your device. 
+ 1. git is installed
+ 2. Node and npm is installed.
+
+## Installation 
 
 1. Clone the project
 2. Open the project with 2 terminals. 
