@@ -1,0 +1,36 @@
+#root{
+  width: 100vw;
+  height: 100vh;
+  padding: 2rem;
+  display: flex;
+}
+.circle{
+  border: 1.5px solid black;
+  border-radius: 50%;
+  /* padding: 2vh; */
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: white;
+}
+
+.commit-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-container{
+  display: flex;
+  align-items: end;
+}
+
+
+svg{
+  width: 5rem;
+  height: 4rem;
+}
+#arrow, #branch-arrow  {
+  stroke: #000;
+  fill: #000;
+}
